@@ -1,5 +1,13 @@
 l# 🧮 Scientific AI Calculator Application
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.19-skyblue" />
+  <img src="https://img.shields.io/badge/Dart-Language-blue" />
+  <img src="https://img.shields.io/badge/OpenAI-ChatGPT-purple" />
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green" />
+  <img src="https://img.shields.io/badge/Status-Active-yellow" />
+</p>
+
 ### A Cross-Platform AI-Powered Math Helper
 
 Developed using **Flutter**, this application combines a **calculator**, **AI assistant (ChatGPT integration)**, and planned **voice input** to make mathematics more interactive and accessible for students.
@@ -71,6 +79,13 @@ It provides:
 | <img width="292" height="183" alt="image" src="https://github.com/user-attachments/assets/f37114e1-fc11-49a3-899b-b9a94f5b5e7b" />| <img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 08_15_42 PM" src="https://github.com/user-attachments/assets/dbd45baa-2689-419e-bd3e-4ab02c8631a8" />
 
 ---
+## 🔧 Setup
+
+```bash
+git clone <repo>
+flutter pub get
+flutter run
+```
 
 ## 🧠 Learning Outcomes
 
