@@ -1,61 +1,16 @@
-# 🟧 Scientific Calculator App with AI — README.md
+# math_assistant
 
-## 🔢 AI-Powered Scientific Calculator (Flutter + ChatGPT API)
+A new Flutter project.
 
-A cross-platform (iOS/Android) calculator with advanced scientific functions, conversions, and natural language AI.
+## Getting Started
 
-### ✨ Features
+This project is a starting point for a Flutter application.
 
-* Standard & scientific calculations
-* Constants storage
-* Unit & currency conversions
-* Voice input (coming soon)
-* AI chatbot for natural queries like:
+A few resources to get you started if this is your first Flutter project:
 
-  > "solve 3x + 5 = 20"
-  > "convert 150 USD to SGD"
-* Works on iOS & Android
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-### 🛠 Tech Stack
-
-* **Frontend:** Flutter (Dart)
-* **Backend:** REST API (Python or Dart)
-* **AI:** ChatGPT API
-* **State Management:** Provider/GetX (your choice)
-
-### 📁 Project Structure
-
-```
-/lib
-  ├── main.dart
-  ├── screens/
-  ├── widgets/
-  ├── services/
-      └── ai_service.dart
-```
-
-### ▶️ Running the App
-
-```bash
-flutter pub get
-flutter run
-```
-
-### 🔌 API Integration (ChatGPT)
-
-Example (Dart):
-
-```dart
-final response = await http.post(
-  Uri.parse("https://api.openai.com/v1/chat/completions"),
-  headers: {"Authorization": "Bearer YOUR_KEY"},
-  body: jsonEncode({...})
-);
-```
-
-### 📌 Future Improvements
-
-* Store calculation history
-* Offline mode
-* More AI-based functions
-* Deploy backend to Azure/AWS
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
