@@ -68,7 +68,7 @@ It provides:
 
 | iOS Simulator                                  | App Interface                        |
 | ---------------------------------------------- | ------------------------------------ |
-| ![Simulator Screenshot](path/to/simulator.png) | ![App UI Screenshot](path/to/ui.png) |
+| <img width="292" height="183" alt="image" src="https://github.com/user-attachments/assets/f37114e1-fc11-49a3-899b-b9a94f5b5e7b" />| ![App UI Screenshot](path/to/ui.png) |
 
 > *Figure 1:* Testing Math Assistant App on iPhone 14 Pro using Xcode Simulator
 > *Figure 2:* Calculator and AI Assist tabs within the Math Assistant interface
