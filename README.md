@@ -4,27 +4,16 @@ l# 🧮 Scientific AI Calculator Application
   <img src="https://img.shields.io/badge/Flutter-3.19-skyblue" />
   <img src="https://img.shields.io/badge/Dart-Language-blue" />
   <img src="https://img.shields.io/badge/OpenAI-ChatGPT-purple" />
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green" />
-  <img src="https://img.shields.io/badge/Status-Active-yellow" />
+  <img src="https://img.shields.io/badge/iOS-Ready-lightgrey" />
+  <img src="https://img.shields.io/badge/Android-Ready-green" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow" />
 </p>
-
 ### A Cross-Platform AI-Powered Math Helper
 
-Developed using **Flutter**, this application combines a **calculator**, **AI assistant (ChatGPT integration)**, and planned **voice input** to make mathematics more interactive and accessible for students.
-
----
-
 ## 🚀 Overview
-
-The **Math Assistant App** is designed to help users — particularly tertiary students — solve mathematical problems in a more intuitive and engaging way.
-It provides:
-
-* A **fully functional scientific calculator** for arithmetic and advanced functions
-* Integration with **ChatGPT API** for **conceptual math questions** and **step-by-step explanations**
-* (Upcoming) **Voice Input** using Google’s **Speech-to-Text API**
-* (Upcoming) **Photo Recognition (PhotoMath)** to solve equations directly from images
-
----
+The **Scientific AI Calculator App** is a cross-platform mobile application built with Flutter.  
+It combines a full scientific calculator with AI-powered explanations using the **ChatGPT API**.  
+Designed as a Final Year Project (FYP), the app supports tertiary students by providing both computations and conceptual reasoning.
 
 ## 🧰 Features
 
@@ -64,7 +53,7 @@ It provides:
 | Component                | Technology Used          |
 | ------------------------ | ------------------------ |
 | Framework                | Flutter                  |
-| Programming Language     | Dart                     |
+| Programming Language     | Dart, Python             |
 | IDEs                     | Xcode (for iOS), VS Code |
 | AI Integration           | OpenAI ChatGPT API       |
 | Speech-to-Text (planned) | Google Speech API        |
@@ -79,25 +68,31 @@ It provides:
 | <img width="292" height="183" alt="image" src="https://github.com/user-attachments/assets/f37114e1-fc11-49a3-899b-b9a94f5b5e7b" />| <img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 08_15_42 PM" src="https://github.com/user-attachments/assets/dbd45baa-2689-419e-bd3e-4ab02c8631a8" />
 
 ---
-## 🔧 Setup
+## 🔧 Setup Instructions
 
 ```bash
-git clone <repo>
+git clone <repo-url>
 flutter pub get
 flutter run
 ```
 
+To run on iOS:
+```bash
+cd ios
+pod install
+```
+
+---
+
 ## 🧠 Learning Outcomes
+This Final Year Project strengthened skills in:
 
-This project was developed as part of a **Final Year Project (FYP)**.
-Through it, I’ve gained deeper experience in:
-
-* **Mobile app development** with Flutter
-* **API integration** (ChatGPT)
-* Managing **state** and **UI components**
-* Working with **cross-platform compatibility**
-* Handling real-world debugging and deployment issues
-
+- Mobile app development (Flutter)
+- State management and widget structuring
+- API integration (ChatGPT)
+- Cross-platform debugging
+- UI/UX design for education apps
+- Planning scalable new features (STT, OCR)
 ---
 
 ## 🧑‍💻 Author
