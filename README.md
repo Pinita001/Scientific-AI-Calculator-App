@@ -1,4 +1,4 @@
-# 🧮 Scientific AI Calculator Application
+l# 🧮 Scientific AI Calculator Application
 
 ### A Cross-Platform AI-Powered Math Helper
 
@@ -68,11 +68,7 @@ It provides:
 
 | iOS Simulator                                  | App Interface                        |
 | ---------------------------------------------- | ------------------------------------ |
-| <img width="292" height="183" alt="image" src="https://github.com/user-attachments/assets/f37114e1-fc11-49a3-899b-b9a94f5b5e7b" />| ![App U![Uploading image.png…]()
- |
-
-> *Figure 1:* Testing Math Assistant App on iPhone 14 Pro using Xcode Simulator
-> *Figure 2:* Calculator and AI Assist tabs within the Math Assistant interface
+| <img width="292" height="183" alt="image" src="https://github.com/user-attachments/assets/f37114e1-fc11-49a3-899b-b9a94f5b5e7b" />| <img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 08_15_42 PM" src="https://github.com/user-attachments/assets/dbd45baa-2689-419e-bd3e-4ab02c8631a8" />
 
 ---
 
@@ -93,7 +89,4 @@ Through it, I’ve gained deeper experience in:
 
 **Thavamani Pinita**
 📍 Final Year Project, Nanyang Technological University
-📧 *[your.email@example.com](mailto:your.email@example.com)*
-🔗 [LinkedIn](#) | [Portfolio](#)
-
 ---
