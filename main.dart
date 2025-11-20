@@ -6,9 +6,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 // Hardcode your key here (only used for AI Assist tab)
-const String kOpenAIKey = 'sk-proj-8FeyBfMxSxr7Rxno_JoDqNyYTiMeTLgpk7RJD4gL8mGrwApNMv8CdY5wi06HXadc8hdCRK6x3RT3BlbkFJ_9wX_SasPEKJ5jfGEUG5KBFILtQwtRLfG5vFa_0Y9jaR5Vo4CHdb4Q8vBnbH5itSw-dqQ_mT0AE';
-
-void main() {
+const String kOpenAIKey = '(removed for security purposes)'
   runApp(const CalculatorApp());
 }
 
