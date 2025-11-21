@@ -1,4 +1,4 @@
-l# 🧮 Scientific AI Calculator Application
+# 🧮 Scientific AI Calculator Application
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.19-skyblue" />
