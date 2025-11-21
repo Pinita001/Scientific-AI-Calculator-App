@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/Android-Ready-green" />
   <img src="https://img.shields.io/badge/Status-In_Progress-yellow" />
 </p>
-### A Cross-Platform AI-Powered Math Helper
+
+## A Cross-Platform AI-Powered Math Helper
 
 ## 🚀 Overview
 The **Scientific AI Calculator App** is a cross-platform mobile application built with Flutter.  
